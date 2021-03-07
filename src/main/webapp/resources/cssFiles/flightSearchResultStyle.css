@@ -1,0 +1,96 @@
+h1{
+text-align:center;
+margin-bottom: 50px;}
+.container
+{
+  position: relative;
+  left: 10%;
+  height:200px;
+  width: 70%;
+  background:#F8F8FF ;
+  border: 10px solid #46526A;
+  box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+  padding: 20px;
+  
+}
+
+.container.h1
+{
+	color:red
+}
+.Airline-header
+{
+	color:blue;
+	align:center;
+}
+.Flight-Price{
+	 position: absolute;
+	 margin-left: 12px;
+}
+
+.airline-picture{
+	position: absolute;
+	margin-left: 70%;
+}
+
+.form-btn{
+	  position:absolute;
+	  margin-bottom: 10px;
+	  margin-left: 70%;
+	  margin-top: 140px;
+	
+}
+
+.from-from{
+	position:absolute;
+	margin-left: 33%;
+	margin-top : 80px;
+}
+
+.to-to{
+	position:absolute;
+	margin-left: 53%;
+	margin-top : 80px;
+}
+
+.FlightTime{
+	position: absolute;
+	width: auto;
+	margin-top: 40px;
+	margin-left: 12px;
+}
+ .company-name{
+ 	position:absolute;
+ 	margin-top: 70px;
+	margin-left: 12px;
+ 
+ }
+.form-group  {	
+  position:absolute;
+  width: auto; 
+  margin-top: 170px;
+  margin-left: 12px;
+  
+}
+
+ button {
+  
+
+  width: 200px;
+  height: 40px;
+  border-radius: 4px;
+
+  font-family: 'Raleway', sans-serif;
+  font-size: 1em;
+  font-weight: 500;
+  background: #46526A;
+  color: white;
+  border: none;
+}
+
+
+button:hover {
+  background-color: #617293;
+  cursor: pointer;
+  outline: none;
+}

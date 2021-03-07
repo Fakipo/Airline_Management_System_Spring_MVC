@@ -1,0 +1,105 @@
+body {
+ 	margin: 0;
+	padding: 0;
+	background: url(login.jpg);
+	background-size: cover;
+	font-family: sans-serif;
+} 
+label{
+	padding:20px 0px ;
+	font-weight: bold;
+}
+.container
+{
+  position: absolute;
+  left: 10%;
+  height:auto;
+  width: 70%;
+  border: 5px solid #46526A;
+  box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+  padding: 50px;
+  
+}
+
+.container.h1
+{
+	color:blue
+}
+h1
+{
+	color:blue;
+	align:center;
+}
+input {
+  font-family: "Roboto", sans-serif;
+  outline: none;
+  background: #f2f2f2;
+  width: 300px;
+  height:2%;
+  border: 0;
+  margin: 0 0 15px;
+  padding: 15px;
+  box-shadow: 5px 10px #888888;
+  font-size: 14px;
+}
+hr.new1 {
+  border-top: 3px solid grey;
+}
+
+ button {
+  width: 200px;
+  height: 40px;
+  border-radius: 4px;
+  margin-top: 34px;
+  margin-left: 40%;
+  font-family: 'Raleway', sans-serif;
+  font-size: 1em;
+  font-weight: 500;
+  background: #46526A;
+  color: white;
+  border: none;
+  padding 18px;
+}
+
+
+button:hover {
+  background-color: #617293;
+  cursor: pointer;
+  outline: none;
+}
+
+.firstnamebooker, .lastnamebooker {
+display: inline-block;
+width: 240px;
+  margin-bottom: 30px;
+}
+.firstnamebooker {
+  margin-right: 150px;
+}
+.email, .address {
+display: inline-block;
+width: 240px;
+  margin-bottom: 30px;
+}
+.email{
+  margin-right: 150px;
+}
+.mobile, .passportbooker {
+display: inline-block;
+width: 240px;
+  margin-bottom: 30px;
+}
+.mobile {
+  margin-right: 150px;
+}
+.firstname, .lastname {
+display: inline-block;
+width: 240px;
+  margin-bottom: 30px;
+}
+.firstname {
+  margin-right: 150px;
+}
+.passportno{
+	
+}
