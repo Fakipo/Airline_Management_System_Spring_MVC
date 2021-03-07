@@ -25,6 +25,7 @@ import airline.serviceclass.BookingHandler;
 @Controller
 public class BookingController {
 	
+	
 	@Autowired
 	PassengerDao passengerDao;
 	
