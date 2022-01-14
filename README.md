@@ -7,7 +7,7 @@ To run the project, follow these steps :-
 
 Run the DatabasePatch in mysql workbench.
 
-Import the project into your eclipse IDE.
+Import the project as maven project into your eclipse IDE.
 
 change the root, password according to your own system in the project database connection at this location - Airline_Management_System_Spring_MVC/src/main/resources/user-beans.xml.
 
